@@ -15,7 +15,7 @@ En el año 2525, la humanidad ha logrado una profunda integración con las tecno
 
 Bajo este planteamiento se desarrola la v2.0 pre1 [SistemaV@l_v2.0-pre1.md](SistemaV@l_v2.0-pre1.md).
 
-En el siguiente enlace puedes valorar el equilibrio de un hecho con Isabel [[https://isabel.streamlit.app](https://gloval.streamlit.app/)]([https://isabel.streamlit.app](https://gloval.streamlit.app/)).
+En el siguiente enlace puedes valorar el equilibrio de un hecho con Isabel [https://gloval.streamlit.app](https://gloval.streamlit.app/).
 
 
 **Prompt Engineering**
