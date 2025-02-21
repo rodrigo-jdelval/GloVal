@@ -47,7 +47,7 @@ system_prompt = {
 st.title("Sistema Glov@l")
 st.write("Inteligencia Sistémica Balancing AI for Longevity and Equilibrium (Isabel)")
 # st.wtite("Herramienta online de valoración del equilibrio de un hecho en base a IA.")
-st.wtite(")o( Rodrigo Jiménez del Val")
+# st.wtite(")o( Rodrigo Jiménez del Val")
 
 # Input text box for user to enter their query
 user_input = st.text_area("Ingrese su hecho a valorar el equilibrio:", height=150)
