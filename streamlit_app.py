@@ -46,7 +46,7 @@ system_prompt = {
 # Streamlit app setup
 st.title("Sistema Glov@l")
 st.write("Inteligencia Sistémica Balancing AI for Longevity and Equilibrium (Isabel)")
-st.wtite("Herramienta online de valoración del equilibrio de un hecho en base a IA.")
+# st.wtite("Herramienta online de valoración del equilibrio de un hecho en base a IA.")
 st.wtite(")o( Rodrigo Jiménez del Val")
 
 # Input text box for user to enter their query
