@@ -68,7 +68,7 @@ La arquitectura propuesta se estructura en las siguientes capas interconectadas:
 
 ```
 +---------------------------------------------+
-|  3.1 Procesamiento Multimodal               | 
+|       3.1 Procesamiento Multimodal          | 
 |   (Integración de texto, imagen, audio /    |
 |  normalización, filtrado,|enriquecimiento)  |
 +---------------------------------------------+
@@ -81,19 +81,19 @@ La arquitectura propuesta se estructura en las siguientes capas interconectadas:
                 |
                 v
 +------------------------------------+
-|      3.3 LLM (Razonamiento)        |
+|       3.3 LLM (Razonamiento)       |
 | (Consulta con prompts contextuales)|
 +------------------------------------+
                 |
                 v
 +--------------------------------+
-|      3.4 Salidas Estructuradas  |
-|      (Registros actualizados)   |
+|    3.4 Salidas Estructuradas   |
+|    (Registros actualizados)    |
 +--------------------------------+
                 |
                 v
 +----------------------------------------+
-|      3.5 Ciclo de Retroalimentación    |
+|    3.5 Ciclo de Retroalimentación      |
 | (Aprendizaje continuo y actualización) |
 +----------------------------------------+
 ```  
