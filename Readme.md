@@ -58,7 +58,7 @@ La evolución de la tecnología ha permitido que los sistemas de IA se acerquen 
 Esta arquitectura propone un modelo que abstrae estas capacidades, permitiendo el desarrollo de aplicaciones IA que operen mediante ciclos de procesamiento reutilizables y contextuales.
 
 
-Bajo este planteamiento se desarrola la *Arquitectura de Aplicaciones Inteligentes Basadas en LLMs: Un Enfoque Multimodal y Autónomo* v0.1 [virovesca_es.md](virovesca_es1.md).
+Bajo este planteamiento se desarrola la *Arquitectura de Aplicaciones Inteligentes Basadas en LLMs: Un Enfoque Multimodal y Autónomo* v0.1 [virovesca_es](virovesca_es.md).
 ---
 
 
