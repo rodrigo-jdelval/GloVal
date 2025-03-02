@@ -67,12 +67,11 @@ Esta arquitectura propone un modelo que abstrae estas capacidades, permitiendo e
 La arquitectura propuesta se estructura en las siguientes capas interconectadas:  
 
 ```
-+--------------------------------+
-|  3.1 Procesamiento Multimodal  |
-| (Integración de texto, imagen, |
-|  audio; normalización, filtrado,|
-|  enriquecimiento)               |
-+--------------------------------+
++---------------------------------------------+
+|  3.1 Procesamiento Multimodal               | 
+|   (Integración de texto, imagen, audio /    |
+|  normalización, filtrado,|enriquecimiento)  |
++---------------------------------------------+
                 |
                 v
 +--------------------------------+
@@ -81,22 +80,22 @@ La arquitectura propuesta se estructura en las siguientes capas interconectadas:
 +--------------------------------+
                 |
                 v
-+--------------------------------+
-|      3.3 LLM (Razonamiento)     |
++------------------------------------+
+|      3.3 LLM (Razonamiento)        |
 | (Consulta con prompts contextuales)|
-+--------------------------------+
++------------------------------------+
                 |
                 v
 +--------------------------------+
 |      3.4 Salidas Estructuradas  |
-| (Registros actualizados)        |
+|      (Registros actualizados)   |
 +--------------------------------+
                 |
                 v
-+--------------------------------+
-|      3.5 Ciclo de Retroalimentación|
-| (Aprendizaje continuo y actualización)|
-+--------------------------------+
++----------------------------------------+
+|      3.5 Ciclo de Retroalimentación    |
+| (Aprendizaje continuo y actualización) |
++----------------------------------------+
 ```  
 
 Bajo este planteamiento se desarrola la v0.1 [virovesca_es](virovesca_es.md).
