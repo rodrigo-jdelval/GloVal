@@ -18,9 +18,9 @@ Bajo este planteamiento se desarrola la v2.0 pre1 [SistemaV@l_v2.0-pre1.md](Sist
 
 En el siguiente enlace puedes valorar el equilibrio de un hecho con Isabel [https://gloval.streamlit.app](https://gloval.streamlit.app/).
 
-```
-**Prompt Engineering Isabel**
 
+**Prompt Engineering Isabel**
+```
   "system_prompt": {
     "rol": "Analista del Sistema GloV@l",
     "objetivo": "Evaluar equilibrio de hechos usando:",
@@ -59,5 +59,6 @@ Esta arquitectura propone un modelo que abstrae estas capacidades, permitiendo e
 
 
 Bajo este planteamiento se desarrola la *Arquitectura de Aplicaciones Inteligentes Basadas en LLMs: Un Enfoque Multimodal y Autónomo* v0.1 [virovesca?es.md](virovesca?es1.md).
+---
 
 
