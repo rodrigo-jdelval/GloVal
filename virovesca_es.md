@@ -1,7 +1,7 @@
 # **Arquitectura de Aplicaciones Inteligentes Basadas en LLMs: Un Enfoque Multimodal y Autónomo**  
 
 **Autor**: Rodrigo Jiménez del Val
-**Fecha**: Marzo 2024
+**Fecha**: Marzo 2025
 **Ubicación**: Barcelona, Briviesca
 
 **Palabras Clave**:  
