@@ -61,9 +61,45 @@ En el siguiente enlace puedes valorar el equilibrio de un hecho con Isabel [http
 ---
 
 La evolución de la tecnología ha permitido que los sistemas de IA se acerquen a la capacidad cognitiva humana, basada en hechos, memoria y razonamiento. Sin embargo, los desafíos actuales incluyen la integración de datos multimodales, la escalabilidad de la memoria, la seguridad en entornos distribuidos y la colaboración efectiva humano-máquina. Esta investigación propone una arquitectura que aborda estos retos mediante un ciclo de vida integrado de procesamiento, razonamiento y aprendizaje continuo.  
+
 Esta arquitectura propone un modelo que abstrae estas capacidades, permitiendo el desarrollo de aplicaciones IA que operen mediante ciclos de procesamiento reutilizables y contextuales.
 
-Bajo este planteamiento se desarrola la *Arquitectura de Aplicaciones Inteligentes Basadas en LLMs: Un Enfoque Multimodal y Autónomo* v0.1 [virovesca_es](virovesca_es.md).
+La arquitectura propuesta se estructura en las siguientes capas interconectadas:  
+
+```
++--------------------------------+
+|  3.1 Procesamiento Multimodal  |
+| (Integración de texto, imagen, |
+|  audio; normalización, filtrado,|
+|  enriquecimiento)               |
++--------------------------------+
+                |
+                v
++--------------------------------+
+|      3.2 Memoria Dinámica       |
+| (Almacenamiento de registros)   |
++--------------------------------+
+                |
+                v
++--------------------------------+
+|      3.3 LLM (Razonamiento)     |
+| (Consulta con prompts contextuales)|
++--------------------------------+
+                |
+                v
++--------------------------------+
+|      3.4 Salidas Estructuradas  |
+| (Registros actualizados)        |
++--------------------------------+
+                |
+                v
++--------------------------------+
+|      3.5 Ciclo de Retroalimentación|
+| (Aprendizaje continuo y actualización)|
++--------------------------------+
+```  
+
+Bajo este planteamiento se desarrola la v0.1 [virovesca_es](virovesca_es.md).
 ---
 
 
