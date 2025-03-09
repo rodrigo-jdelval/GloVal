@@ -17,7 +17,7 @@ Inteligencia Artificial, Aprendizaje Multimodal, Memoria Distribuida, Razonamien
 La evolución de la tecnología ha permitido que los sistemas de IA se acerquen a la capacidad cognitiva humana, basada en hechos, memoria y razonamiento. Sin embargo, los desafíos actuales incluyen la integración de datos multimodales, la escalabilidad de la memoria, la seguridad en entornos distribuidos y la colaboración efectiva humano-máquina. Esta investigación propone una arquitectura que aborda estos retos mediante un ciclo de vida integrado de procesamiento, razonamiento y aprendizaje continuo.  
 Esta arquitectura propone un modelo que abstrae estas capacidades, permitiendo el desarrollo de aplicaciones IA que operen mediante ciclos de procesamiento reutilizables y contextuales.
 ## **2. Definición de Aplicación Artificial**  
-Una **aplicación artificial** es un sistema que utiliza modelos de IA (como LLMs) como núcleo de su lógica, integrando datos multimodales, memoria distribuida y mecanismos de autoaprendizaje para resolver problemas complejos. Difiere de las aplicaciones tradicionales al no depender de bases de datos relacionales rígidas, sino de contextos dinámicos y prompts específicos.  
+Una **aplicación artificial** es un sistema que utiliza modelos de IA (como LLMs) como núcleo de su lógica, integrando datos multimodales, memoria distribuida y mecanismos de autoaprendizaje para resolver problemas complejos. Difiere de las aplicaciones tradicionales al no depender de desarrollo, ni de todo el Software Development Live Cycle (SDLC) ni de bases de datos (DDBB), sino de contextos dinámicos y prompts específicos.  
 
 ## **3. Visión General de la Arquitectura**  
 La arquitectura propuesta se estructura en capas interconectadas:  
