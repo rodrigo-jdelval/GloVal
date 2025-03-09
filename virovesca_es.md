@@ -21,10 +21,10 @@ Una **aplicación artificial** es un sistema que utiliza modelos de IA (como LLM
 
 ## **3. Visión General de la Arquitectura**  
 La arquitectura propuesta se estructura en capas interconectadas:  
--Captura y preprocesamiento multimodal de datos.
--Consulta a un motor de razonamiento (LLM) mediante prompts contextuales.
--Almacenamiento de resultados en registros estructurados.
--Aprendizaje continuo mediante feedback humano y autóptimización.
+- Captura y preprocesamiento multimodal de datos.
+- Consulta a un motor de razonamiento (LLM) mediante prompts contextuales.
+- Almacenamiento de resultados en registros estructurados.
+- Aprendizaje continuo mediante feedback humano y autóptimización.
 
 La arquitectura propuesta se estructura en capas interconectadas:  
 
